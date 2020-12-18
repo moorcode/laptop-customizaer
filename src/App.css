@@ -13,12 +13,6 @@ body {
   margin: 0;
 }
 
-header {
-  background-color: #252525d2;
-  color: #fff;
-  padding: 2rem;
-}
-
 header > h1,
 main {
   width: 95%;
